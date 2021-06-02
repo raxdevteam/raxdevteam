@@ -27,7 +27,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raxdevteam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rajeev's GitHub Stats" />
 </a>
 
-<a href="https://github.com/raxdevteam/raxd">
+<a href="https://github.com/raxdevteam/CxTxt2Excel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raxdevteam&repo=CxTxt2Excel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
