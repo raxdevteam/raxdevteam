@@ -30,7 +30,7 @@ My name is Rajeev and I'm a software engineer. I'm from Bihar, living in Bengalu
 </a>
 
 
-<a href="https://github.com/raxdevteam/raxd">
+<a href="https://github.com/raxdevteam/QtMathFx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raxdevteam&repo=raxd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
