@@ -2,13 +2,11 @@
 
 [![Header](https://raw.githubusercontent.com/raxdevteam/raxdevteam/main/.github/code.gif "Header")](https://raxdevteam.in/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/raxdevteam/raxdevteam/main/wave.gif" width="30px">
+# Hello, Pro! <img src="https://raw.githubusercontent.com/raxdevteam/raxdevteam/main/wave.gif" width="30px">
 
-My name is Rajeev and I'm a software engineer. I'm from Bihar, living in Bengaluru and currently working at RAX. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Rajeev and I'm a software engineer. I'm from Bihar, living in Bengaluru and currently working at Defence Technologies.
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [raxdevteam.in](https://raxdevteam.in/) as well as on [Medium](https://medium.com/@pro.rajeev) and [DEV.to](https://dev.to/rajeev).
+## &#x270d; Love to Learn New Technologies
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
